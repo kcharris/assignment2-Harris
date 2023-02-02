@@ -19,3 +19,15 @@ I like **soccer** because a few of my favorite characters from shows that I like
 * Aston Villa
 
 ![About Me Page](AboutMe.md)
+
+---
+
+# Places to visit
+Here is a list of countries to visit
+
+|Name   | Reason to visit | Days I would spend there|
+|---| --- | --- |
+|Japan  | Respectful Culture | 365 |
+| France | Good food | 10 |
+| Canada | Tim Hortons | 1 |
+| Norway | Sounds nice | 30 |
