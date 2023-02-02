@@ -34,17 +34,26 @@ Here is a list of countries to visit
 
 -------
 
+---
+# Quotes I like
+
+*Elbert Hubbard*
+>Do not take life too seriously. You will never get out of it alive.
+
+*Groucho Marx*
+>I refuse to join any club that would have me as a member.
+
+
 # Code Snippet and quote
 
 Stack Overflow quote <https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown>
-~~~
-I just got started with Markdown. I love it, but there is one thing bugging me: How can I change the size of an image using Markdown?
 
-The documentation only gives the following suggestion for an image:
-
-![drawing](drawing.jpg)
-If it is possible I would like the picture to also be centered. I am asking for general Markdown, not just how GitHub does it.
-~~~
+>I just got started with Markdown. I love it, but there is one thing bugging me: How can I change the size of an image using Markdown?
+>
+>The documentation only gives the following suggestion for an image:
+>
+>![drawing](drawing.jpg)
+>If it is possible I would like the picture to also be centered. I am asking for general Markdown, not just how GitHub does it.
 
 Checkerboard pattern SVG snippet. <https://css-tricks.com/snippets/svg/svg-patterns/>
 ```
