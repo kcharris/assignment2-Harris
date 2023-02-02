@@ -13,3 +13,7 @@ I like **soccer** because a few of my favorite characters from shows that I like
 1. Daniel Pedro Castelo Podence
 2. Joao Filipe Iria Santos Moutinho
 3. Toti Antonio Gomes
+
+* Arsenal
+* AFC Bournemouth
+* Aston Villa
